@@ -5,7 +5,7 @@
 
 ## Description
 
-This project is designed to be a todo app for easy task management. Users can create todos, mark them as completed or remove the todo entirely, and move todo to custom lists.
+A Todo app for easy task management. Users can create todos, move them to custom lists, mark them as completed or remove the todo entirely.
 
 ## Design
 
